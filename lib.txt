@@ -1,0 +1,6 @@
+1- pip install ntscraper        ---- scrape lib
+2- pip install openpyxl         ---- excel
+3- pip install psycopg2-binary  ---- pgadmin
+
+for selecting the folder
+cd D:\Stream_Tweets\ntscapper
